@@ -23,5 +23,3 @@ Instalar projecto con npm
   npm install 
   cd practica 012
 ```
-### Autor: 
-Miguel Portes
